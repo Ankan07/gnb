@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "gavel-and-beyond",
+    "private_key_id": "f172fbf5b2039067c01ee164176d5950c903f956",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4gxhQodngDxR8\n9fV7CEIBhvvOT/5zEc9/yvtJSFilaK6eB/yIr6mpMWa57WPep8eJGQ6qtQAcBQ7W\nzafqV7tXXzdVmfiDIzgGt5RkKo8p6hMu4ZYgEsFe7PgkP0J+QJp+g2aEOvP8KWnj\n7exQ8tVd+U8iWNqX1Ailh+YqUlEiEG1FWHx2lHiojrmj5tiaRK9m1gSFfL4bySEe\nxBa2K6v4diyKUVVXj7opeXFbLFZFFVPWZ5ruv+fh9gF7k5LTHM7tXdv3tHJiDdpg\na9NFiJGpIjETI+TIo095g/5s64Yp5E+DX7VGE5PMp1J90XzapVCNj2gw25WC3DwH\n/uO+cQLxAgMBAAECggEATAoWvLAe6qQ8VM1GV+hMz3VSE7HK0qA969P6oDZU9gIA\nqHbxH2GJYYVO6QPImyt442q0rSw/ucxp06NYdo6mUbkXREtaa6zZe4cve+JAMs1Z\nD4J/TIN+NoEhOErru70jDk1Xs9nZ0As/LORR9gBFZ1+Fucl1eIm08Ibjl4BqGEeJ\nxbKgysud9/As8fM1SMlJ983T3bcedzARkpGBgDfsXyBYXDwZUeSoiyFt24QU0R1/\nVnG96u9d/Sibb760GNofE9WPrE6ff03qq4B2xpqp/9k8cuLxRWNY7q4KC48HC9oj\nAjCs5rAEvq9qPNqSACO8rrAnI5BpWuHmuW67kzmg8wKBgQDv6vSuoMxNDm6gK+az\nrRdjUQN3d5HYKs7M7W8OTJeD1UJIBEG8uCpbOuIXdFmjnzW8afqdrIAojpWlLbRl\nLZNj8+tvs5VIjDSz67+NGnzULitx4vcDhMiL2/JTNz3yIezZLEvINsK5crMUpThx\n16LaU9M7WpGgutAW2Gcd+Qra/wKBgQDE4V1W/VsCOlbNDoDhBJB/KzGUryRoQ1TZ\nzhdvqg/J6UqxfZ2wFP28/6Suy9yuJzzZ02FjkDKN1Ce06Rv6yNPxdxjsEODPnDcN\nzsUAOI7a8HsT+04nGEHPshI/SV07lqFpvXjouFA/ODkrgePt5E53grTzDdi8fZdm\n/ydFrdfSDwKBgAdco1N0dbBrn/NkRXj/97bBdqTE04HZlmztYDoFGaUe9yC0mLvM\nvuf7v5JOrK17pi945QrPj0MvVOIzq9Rq+JnZk0DjNtJ6EufudPtEc84i+IxPFZtT\nCMBZ6G6rREhYyCbF2DF1lLYSEfKxOzErF8ExT0sD9XIEKXx5+XgO+0lLAoGAW74U\nq7OV1BzxU859Wd2xo8Cx8vIGShuOD4yMuTkK8HCooLrDX0j40DhkOhu/MtwP7AUn\nLakFFbgV5KR3qE4rDSsNTvuydqv5r5J5lFfGodlL0Qza5zbTfAAjpp/+NQVFJCvp\nirBQnJULdu2pE7K+qcwbm+MI6xSvF4ywdTTEDBsCgYEAi73TlAxaCXdXN/mFST/9\n1TJBUOi5c0TSHLSiKbIt/1rbYwpNNZ37JUAEfgQKrmmrGhLmL8c3k9CX8r9LNIiZ\n/DM84i6Y1msgx11K2MFMXby8yy6eLV2p34iMcaUb4yyLEHPmUbl65thKqUHB4lzN\nCJBmbJSlxZoPFRebFOcP16Q=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-67g5x@gavel-and-beyond.iam.gserviceaccount.com",
+    "client_id": "103976107818989631931",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-67g5x%40gavel-and-beyond.iam.gserviceaccount.com"
+  }
+  
