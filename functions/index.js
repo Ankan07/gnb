@@ -53,4 +53,5 @@ app.get('/article/:id',(request, response)=>{
         console.log('Error getting document', err);
       });
 });
+
 exports.app = functions.https.onRequest(app);

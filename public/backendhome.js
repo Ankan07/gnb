@@ -79,6 +79,9 @@ var allarticles = homepages.get()
      cardaction.setAttribute('class','card-action');
      var span = document.createElement("SPAN");
      span.setAttribute('class','card-title cardtitle');
+     if(doc.data().title.length>120)
+     var i=document.createTextNode(doc.data().title.substring(0,120)+"...");
+     else
      var i=document.createTextNode(doc.data().title);
      span.appendChild(i);
     // span.setAttribute('class',"truncate")
